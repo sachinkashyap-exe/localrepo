@@ -1,3 +1,1 @@
-provider "s2" {
-  
-}
+this is test file
